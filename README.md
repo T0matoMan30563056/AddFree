@@ -69,3 +69,6 @@ needs to accsualy work, this bans websites not apps
 when the vpn is on and everything works there is a noticable delay on other apps
 i want this to be a like a small app that can allways be on in the background without being noticable
 if this is to be possible everything needs to happen on the phone both vpn, the app, and the blocking
+
+## What i did
+all the changes on the pi and phone have been rewerted and nothing is longer available so i pasted all the steps if i want ot make sum like that later
